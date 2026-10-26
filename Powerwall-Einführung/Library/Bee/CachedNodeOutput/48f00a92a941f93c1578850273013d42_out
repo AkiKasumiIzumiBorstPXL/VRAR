@@ -1,0 +1,1 @@
+/Users/yukia.nl/Powerwall-Einführung/Packages/fhaachen.powerwall-master/Runtime/Tracking/Vicon/HMDScript.cs(35,13): warning CS0618: 'InputTracking.disablePositionalTracking' is obsolete: 'This API is obsolete, and should no longer be used. Please use the TrackedPoseDriver in the Legacy Input Helpers package for controlling a camera in XR.'

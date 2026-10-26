@@ -1,0 +1,2 @@
+/Users/yukia.nl/Powerwall-Einführung/Packages/fhaachen.powerwall-master/Runtime/Tracking/DTrack/DTrackReceiverFlystick.cs(127,26): warning CS0618: 'Object.FindObjectOfType<T>()' is obsolete: 'Object.FindObjectOfType has been deprecated. Use Object.FindAnyObjectByType instead.'
+/Users/yukia.nl/Powerwall-Einführung/Packages/fhaachen.powerwall-master/Runtime/Tracking/DTrack/DTrackReceiverFlystick.cs(135,30): warning CS0618: 'Object.FindObjectOfType<T>()' is obsolete: 'Object.FindObjectOfType has been deprecated. Use Object.FindAnyObjectByType instead.'
